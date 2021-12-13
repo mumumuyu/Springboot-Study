@@ -1,0 +1,8 @@
+Usera selectByName(String name);
+
+
+<select id="selectByName" resultMap="BaseResultMap" parameterType="String" >
+    select *
+    from usera
+    where name = #{name}
+  </select>

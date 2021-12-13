@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "com.lgd.pojo.Person",
+      "sourceType": "com.lgd.pojo.Person"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person.id",
+      "type": "java.lang.String",
+      "sourceType": "com.lgd.pojo.Person"
+    },
+    {
+      "name": "person.name",
+      "type": "java.lang.String",
+      "sourceType": "com.lgd.pojo.Person"
+    },
+    {
+      "name": "person.sex",
+      "type": "java.lang.String",
+      "sourceType": "com.lgd.pojo.Person"
+    }
+  ],
+  "hints": []
+}
